@@ -1,5 +1,4 @@
-#######################################################
-【ソフト名】  丸投げ！全自動エンコーダー (FullAutoEncoder) 
+#【ソフト名】  丸投げ！全自動エンコーダー (FullAutoEncoder) 
 【Version 】  V1.1.1.0
 【filename】  FullAutoEncoder.zip
 【著作権者】  ZEN Crafts
